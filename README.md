@@ -109,30 +109,5 @@ potatos-cli --help
 
 数据库：SQLite（通过 Rust 操作）
 
-📝 开发计划
-任务完成状态切换（completed 字段支持）
-
-提醒通知（系统通知）
-
-标签分类
-
-数据导入/导出
-
-🤝 贡献
-欢迎提交 Issue 或 Pull Request。
-
-Fork 本仓库
-
-创建你的功能分支 (git checkout -b feature/amazing-feature)
-
-提交修改 (git commit -m 'Add some amazing feature')
-
-推送到分支 (git push origin feature/amazing-feature)
-
-打开 Pull Request
-
 📄 许可证
-MIT License © 2025 [Your Name]
-
-📬 联系
-如有问题或建议，欢迎通过 Issues 反馈。
+MIT License © 2026 [Fish NoNoNo]
